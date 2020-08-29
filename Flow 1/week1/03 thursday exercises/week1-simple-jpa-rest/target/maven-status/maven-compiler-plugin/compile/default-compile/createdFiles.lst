@@ -1,5 +1,0 @@
-facades\EmployeeFacade.class
-dto\EmployeeDTO.class
-entities\Employee.class
-facades\FacadeExample.class
-rest\ApplicationConfig.class

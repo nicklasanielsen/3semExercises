@@ -10,6 +10,7 @@ build/
 nbbuild/
 dist/
 nbdist/
+target/
 .nb-gradle/
 
 ### Windows ###

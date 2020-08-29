@@ -34,3 +34,5 @@ Projects
 > ### To explore the API you can add the following to the URL:
 > Get all customers: /api/bankcustomer/all  
 > Get customer by id: /api/bankcustomer/{id}
+
+For more information about this week, check out [dat-fall2020](https://dat-fall2020.netlify.app/Flow-1/week1/).

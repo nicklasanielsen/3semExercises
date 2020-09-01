@@ -89,7 +89,7 @@ These exercises are meant to be answered with text, based on internet searches s
 ---
  
 13. Explain (conceptually) about the TCP/IP-protocol stack
-- Applikationslaget samler data fra software og pakker det løst samlet. Transportla-get samler det data som den har modtaget fra applikationslaget og smækker det i en ”pakke”. I netværkslaget bliver tilføjet ip-adresse til ”pakken”. I linklaget får ”pakken” at vide hvilken mac-adresse den skal til. Sidst er det fysiske lag som man ikke altid tæller med, men det er i bund og grund den fysiske forbindelse mellem senderen og modtageren.
+- Applikationslaget samler data fra software og pakker det løst samlet. Transportlaget samler det data som den har modtaget fra applikationslaget og smækker det i en ”pakke”. I netværkslaget bliver tilføjet ip-adresse til ”pakken”. I linklaget får ”pakken” at vide hvilken mac-adresse den skal til. Sidst er det fysiske lag som man ikke altid tæller med, men det er i bund og grund den fysiske forbindelse mellem senderen og modtageren.
 
 ---
 
@@ -99,4 +99,4 @@ These exercises are meant to be answered with text, based on internet searches s
 ---
 
 15. Explain (conceptually) how HTTP and TCP/IP are connected (what can HTTP do, and where does it fit into TCP/IP)
-- HTTP er en del af applikationslaget, og TCP er en del af ”transportlaget” hvilket vil sige, at TCP står for at sende HTTP datapakkerne.
+- HTTP er en del af applikationslaget, og TCP er en del af transportlaget hvilket vil sige, at TCP står for at pakke og sende HTTP datapakkerne.

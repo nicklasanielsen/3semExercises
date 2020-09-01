@@ -99,4 +99,4 @@ These exercises are meant to be answered with text, based on internet searches s
 ---
 
 15. Explain (conceptually) how HTTP and TCP/IP are connected (what can HTTP do, and where does it fit into TCP/IP)
-- TCP holder forbindelsen aktiv mellem serveren og klienten, og derved kan vi even-tuelt oprette sessions i vores webapplikationer, hvis dette er nødvendigt.
+- HTTP er en del af applikationslaget, og TCP er en del af ”transportlaget” hvilket vil sige, at TCP står for at sende HTTP datapakkerne.

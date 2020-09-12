@@ -8,19 +8,19 @@ Links
 
 ### Dom Manipulation and Events
 
--   Simple DOM manipulation and Event handling - [LINK](./DOM/SimpleDOMManipulationAndEventHandling.html)
--   Event Bubbling and event arguments - [LINK](./DOM/EventBubblingAndEventArguments.html)
--   Using map to create list’s (ul’s, tables etc.) - [LINK](./DOM/UsingMapToCreateLists.html)
--   Using map and filter to create dynamic table-rows - [LINK](./DOM/UsingMapAndFilterToCreateDynamicTableRows.html)
--   Implement a simple calculator - [LINK](./DOM/calculator.html)
+-   Simple DOM manipulation and Event handling - [LINK](https://www.nicklasnielsen.dk/devops-starter/DOM/SimpleDOMManipulationAndEventHandling.html)
+-   Event Bubbling and event arguments - [LINK](https://www.nicklasnielsen.dk/devops-starter/DOM/EventBubblingAndEventArguments.html)
+-   Using map to create list’s (ul’s, tables etc.) - [LINK](https://www.nicklasnielsen.dk/devops-starter/DOM/UsingMapToCreateLists.html)
+-   Using map and filter to create dynamic table-rows - [LINK](https://www.nicklasnielsen.dk/devops-starter/DOM/UsingMapAndFilterToCreateDynamicTableRows.html)
+-   Implement a simple calculator - [LINK](https://www.nicklasnielsen.dk/devops-starter/DOM/calculator.html)
 
 ### Movie API
 
--   Reset API - [LINK](./api/movie/reset)
--   Hent alle film - [LINK](./api/movie/all)
--   Tæl film - [LINK](./api/movie/count)
--   Hent film efter id (id kan skiftes i adresselinjen) - [LINK](./api/movie/1)
--   Hent film efter title (titlen kan skiftes i adresselinjen) - [LINK](./api/movie/title/iron)
+-   Reset API - [LINK](https://www.nicklasnielsen.dk/devops-starter/api/movie/reset)
+-   Hent alle film - [LINK](https://www.nicklasnielsen.dk/devops-starter/api/movie/all)
+-   Tæl film - [LINK](https://www.nicklasnielsen.dk/devops-starter/api/movie/count)
+-   Hent film efter id (id kan skiftes i adresselinjen) - [LINK](https://www.nicklasnielsen.dk/devops-starter/api/movie/1)
+-   Hent film efter title (titlen kan skiftes i adresselinjen) - [LINK](https://www.nicklasnielsen.dk/devops-starter/api/movie/title/iron)
 
 ### Status
 

@@ -1,5 +1,5 @@
 # Flow 1, week 3 - Status
-For more information on the assignments, check out [dat-fall2020](https://dat-fall2020.netlify.app/Flow-1/week1/SP3/).
+For more information on the assignments, check out [dat-fall2020](https://dat-fall2020.netlify.app/Flow-1/week3/SP3/).
 
 Links
 

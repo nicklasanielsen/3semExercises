@@ -117,7 +117,6 @@ public class PersonFacadeTest {
         }
     }
 
-    @Disabled
     @Test
     public void testAddPerson_success() throws MissingInputException {
         // Arrange
@@ -272,6 +271,7 @@ public class PersonFacadeTest {
         assertEquals(expected, actual);
     }
 
+    @Disabled
     @Test
     public void testEditPerson_success() throws PersonNotFoundException, MissingInputException {
         // Arrange
